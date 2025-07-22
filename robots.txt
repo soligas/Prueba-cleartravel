@@ -1,0 +1,7 @@
+# Allow all user-agents to crawl all pages of the site.
+User-agent: *
+Disallow:
+
+# Vercel will automatically generate a sitemap.xml for your production deployments.
+# You can add the full URL here after your first deployment.
+# Sitemap: https://your-domain.com/sitemap.xml
